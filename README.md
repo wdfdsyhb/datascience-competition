@@ -1,6 +1,10 @@
-# datascience-competition
+# datascience-competition · 数据竞赛 Agent 技能
 
-数据竞赛全流程 **Agent 技能**（天池 / Kaggle / 电赛）：六阶段工作流 + 过拟合诊断 + 模型融合指南。
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+> 给 AI 编码工具装的竞赛技能：说一句「打比赛」就触发，从赛道分析到提交复盘走完六阶段，附带过拟合诊断和模型融合两份速查。
+>
+> English: An AI-agent skill for data competitions — say "enter a competition" to trigger a six-stage workflow from track analysis to submission review, with ensemble and overfit-checklist guides.
 
 ## 安装
 
@@ -27,3 +31,9 @@
 ## License
 
 MIT
+
+---
+
+## English
+
+Full English documentation: [README_EN.md](README_EN.md)
