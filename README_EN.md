@@ -1,6 +1,6 @@
 # datascience-competition · Data Competition Agent Skill
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/wdfdsyhb/datascience-competition/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/datascience-competition/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > Install it into your AI coding tool as a competition skill: one phrase — "enter a competition" — triggers a six-stage workflow from track analysis to submission review, backed by two quick references on model ensembling and overfitting diagnostics.
 >
