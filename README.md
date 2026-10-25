@@ -1,6 +1,6 @@
 # datascience-competition · 数据竞赛 Agent 技能
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/wdfdsyhb/datascience-competition/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/datascience-competition/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > 给 AI 编码工具装的竞赛技能：说一句「打比赛」就触发，从赛道分析到提交复盘走完六阶段，附带过拟合诊断和模型融合两份速查。
 >
